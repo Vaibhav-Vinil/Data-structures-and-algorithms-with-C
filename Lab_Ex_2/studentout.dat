@@ -1,0 +1,7 @@
+Student Records in FIFO order:
+ID: ID005, Name: Bill, DOB: 1999-05-15, CGPA: 9.70
+ID: ID001, Name: John, DOB: 2000-01-01, CGPA: 3.75
+ID: ID002, Name: Jane, DOB: 1999-05-15, CGPA: 3.90
+ID: ID003, Name: Tom, DOB: 1999-05-15, CGPA: 4.77
+ID: ID004, Name: Jack, DOB: 1999-05-15, CGPA: 9.00
+ID: ID005, Name: Bill, DOB: 1999-05-15, CGPA: 9.70
